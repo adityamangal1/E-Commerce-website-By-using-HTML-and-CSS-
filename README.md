@@ -4,6 +4,8 @@ A fully responsive website from scratch with the help of HTML and CSS. The websi
 
 ![Screenshot (53)](https://user-images.githubusercontent.com/68494604/115010236-caec5380-9eca-11eb-9764-01918a32415b.png)
 
+ <br>
+ 
 ![Screenshot (54)](https://user-images.githubusercontent.com/68494604/115010459-143ca300-9ecb-11eb-9f7d-ea6e2de302e3.png)
 
 
